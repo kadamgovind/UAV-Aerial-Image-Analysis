@@ -187,7 +187,7 @@ The conversion pipeline transforms the original annotations into a format suitab
 
 1. Clone the repository
 
-git clone https://github.com/kryomai/UAV-Aerial-Image-Analysis.git
+git clone https://github.com/kadamgovind/UAV-Aerial-Image-Analysis.git
 cd UAV-Aerial-Image-Analysis
 
 2. Create a virtual environment
