@@ -1,0 +1,128 @@
+{
+    "dataset": "VisDrone2019-DET",
+    "purpose": "UAV Aerial Image Analysis System",
+    "train": {
+        "images": 6471,
+        "annotation_files": 6471,
+        "valid_objects": 343205,
+        "class_distribution": {
+            "pedestrian": {
+                "count": 79337,
+                "percentage": 23.12
+            },
+            "people": {
+                "count": 27059,
+                "percentage": 7.88
+            },
+            "bicycle": {
+                "count": 10480,
+                "percentage": 3.05
+            },
+            "car": {
+                "count": 144867,
+                "percentage": 42.21
+            },
+            "van": {
+                "count": 24956,
+                "percentage": 7.27
+            },
+            "truck": {
+                "count": 12875,
+                "percentage": 3.75
+            },
+            "tricycle": {
+                "count": 4812,
+                "percentage": 1.4
+            },
+            "awning-tricycle": {
+                "count": 3246,
+                "percentage": 0.95
+            },
+            "bus": {
+                "count": 5926,
+                "percentage": 1.73
+            },
+            "motor": {
+                "count": 29647,
+                "percentage": 8.64
+            }
+        },
+        "resolution": {
+            "images_analyzed": 6471,
+            "min_width": 480,
+            "max_width": 2000,
+            "average_width": 1519.89,
+            "min_height": 360,
+            "max_height": 1500,
+            "average_height": 1002.4
+        }
+    },
+    "validation": {
+        "images": 548,
+        "annotation_files": 548,
+        "valid_objects": 38759,
+        "class_distribution": {
+            "pedestrian": {
+                "count": 8844,
+                "percentage": 22.82
+            },
+            "people": {
+                "count": 5125,
+                "percentage": 13.22
+            },
+            "bicycle": {
+                "count": 1287,
+                "percentage": 3.32
+            },
+            "car": {
+                "count": 14064,
+                "percentage": 36.29
+            },
+            "van": {
+                "count": 1975,
+                "percentage": 5.1
+            },
+            "truck": {
+                "count": 750,
+                "percentage": 1.94
+            },
+            "tricycle": {
+                "count": 1045,
+                "percentage": 2.7
+            },
+            "awning-tricycle": {
+                "count": 532,
+                "percentage": 1.37
+            },
+            "bus": {
+                "count": 251,
+                "percentage": 0.65
+            },
+            "motor": {
+                "count": 4886,
+                "percentage": 12.61
+            }
+        },
+        "resolution": {
+            "images_analyzed": 548,
+            "min_width": 960,
+            "max_width": 1920,
+            "average_width": 1291.09,
+            "min_height": 540,
+            "max_height": 1080,
+            "average_height": 726.24
+        }
+    },
+    "classes": {
+        "1": "pedestrian",
+        "2": "people",
+        "3": "bicycle",
+        "4": "car",
+        "5": "van",
+        "6": "truck",
+        "7": "tricycle",
+        "8": "awning-tricycle",
+        "9": "bus",
+        "10": "motor"
+    }
+}

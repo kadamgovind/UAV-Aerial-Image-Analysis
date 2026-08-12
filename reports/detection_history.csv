@@ -1,0 +1,4 @@
+Mission ID,Analysis Time,Image Resolution,Confidence Threshold,Total Objects,Object Classes,Average Confidence,Highest Confidence,Lowest Confidence,Alert Count,High Alerts,Medium Alerts,Info Alerts,Status
+UAV-3624E265,"11 Aug 2026, 22:14:53",1920 × 1080,25%,45,car,53.28%,97.59%,25.66%,,,,,ANALYSIS COMPLETE
+UAV-EF5F2ED0,"11 Aug 2026, 22:16:51",1920 × 1080,10%,7,"car, pedestrian",26.59%,95.80%,10.05%,,,,,ANALYSIS COMPLETE
+UAV-105E0B1C,"11 Aug 2026, 22:55:31",1920 × 1080,25%,15,car,40.17%,86.03%,25.17%,1,1,0,0,ANALYSIS COMPLETE

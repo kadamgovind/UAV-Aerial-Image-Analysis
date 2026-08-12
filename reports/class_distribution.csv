@@ -1,0 +1,11 @@
+class_id,class_name,object_count,percentage
+1,pedestrian,79337,23.12
+2,people,27059,7.88
+3,bicycle,10480,3.05
+4,car,144867,42.21
+5,van,24956,7.27
+6,truck,12875,3.75
+7,tricycle,4812,1.40
+8,awning-tricycle,3246,0.95
+9,bus,5926,1.73
+10,motor,29647,8.64
